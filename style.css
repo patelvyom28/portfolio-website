@@ -1,9 +1,9 @@
 body {
-  background-color: Soft sky blue;
+  background-color: Light cream;
 }
 
 h1 {
-  color: Dark grey;
+  color: Dark blue;
   text-align: center;
 }
 
@@ -13,13 +13,13 @@ p {
   }
 
 .title {
-  color: Dark grey;
+  color: Dark blue;
   text-align: center;
 }
 
 .text {
   font-size: 18px;
   text-align: center;
-  color: Charcoal grey;
+  color: grey;
 }
 
