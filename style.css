@@ -11,3 +11,15 @@ p {
   font-size: 18px;
   text-align: center;
   }
+
+.title {
+  color: purple;
+  text-align: center;
+}
+
+.text {
+  font-size: 18px;
+  text-align: center;
+  color: #333;
+}
+
